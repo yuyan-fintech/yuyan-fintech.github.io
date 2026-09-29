@@ -511,6 +511,10 @@ body {
     font-size: 0.8rem;
   }
 
+  .social-link .fa-linkedin {
+  color: #0A66C2;
+  }
+
   .label-icon {
     width: 16px;
     height: 16px;

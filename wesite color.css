@@ -165,7 +165,7 @@ body {
   height: 20px;
   object-fit: contain;
   flex-shrink: 0;
-  filter: grayscale(100%); /* 默认灰色图标 */
+  filter: none; /* 默认灰色图标 */
 }
 
 .label span {
